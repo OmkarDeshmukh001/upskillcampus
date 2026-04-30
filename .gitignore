@@ -1,0 +1,4 @@
+*.pkl
+Turbofan_engine/
+__pycache__/
+*.ipynb_checkpoints
